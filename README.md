@@ -1,5 +1,13 @@
 # APOD Project
 
+![Screenshot 2024-07-25 174209](https://github.com/user-attachments/assets/8c7f61d9-f395-40db-b0d1-3d94d4c30948)
+
+![Screenshot 2024-07-25 174232](https://github.com/user-attachments/assets/7a6f57da-7959-4adc-8a78-309be912c138)
+
+![Screenshot 2024-07-26 151630](https://github.com/user-attachments/assets/9f3d5d8b-e65f-4396-9b40-b17807e34b94)
+
+![Screenshot 2024-07-26 151657](https://github.com/user-attachments/assets/0bc398d3-335d-47b3-be28-4da2906fbc88)
+
 ## Overview
 
 The **APOD Project** (Astronomy Picture of the Day) fetches and displays the Astronomy Picture of the Day from NASA's API. This project is designed using React and styled with Tailwind CSS, ensuring a responsive and visually appealing user interface.
